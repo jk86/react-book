@@ -10,7 +10,7 @@
     "job-status": "leanpub-cli job-status survivejs-react",
     "test": "check-markdown-links manuscript"
   },
-  "dependencies": {},
+  "dependencies": {}, 
   "devDependencies": {
     "check-markdown-links": "^0.1.1",
     "leanpub-cli": "^0.2.0"
